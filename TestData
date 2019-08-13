@@ -1,0 +1,15 @@
+{
+	"MyObject": {
+		"BrandName": "Dell",
+		"Features": {
+			"Feature": [
+				"8GB RAM",
+				"1TB Hard Drive"
+			]
+		},
+		"Id": 844,
+		"LaptopName": {
+			"Model": "Latitude"
+		}
+	}
+}
